@@ -26,8 +26,6 @@ This is a cross-chain token transfer bridge that utilizes a **Centralized Exchan
 3. **Start interacting with the bot:**
    - Once deployed, use the Telegram bot to manage cross-chain transfers and request deposit addresses.
    
-For detailed instructions on deployment, refer to the full README section.
-
 This solution simplifies cross-chain transfers, ensuring cost-efficiency, security, and control over your token movements.
 
 ## Video demo
